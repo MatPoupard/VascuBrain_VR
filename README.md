@@ -29,8 +29,9 @@ Three conditions were designed to explore different levels of user interaction:
 - **Chemistry Lab**: Created by [*Chandan kumar singh*](https://assetstore.unity.com/packages/3d/environments/industrial/chemistry-laboratory-188274) (purchased model under license).
 
 ## Publications
-- Matisse Poupard, Florian Larrue, Martin Bertrand, Dominique Liguoro, André Tricot, Hélène Sauzéon. Using virtual reality for enhancing neuroanatomy learning by optimizing cognitive load and intrinsic motivation. 2024. [(hal-04814452)](https://hal.science/hal-04814452)
-- Matisse Poupard, Florian Larrue, Martin Bertrand, Dominique Liguoro, Hélène Sauzéon, André Tricot. From Movement to Learning: Leveraging VR Behavioral Metrics to Evaluate Cognitive Load and Curiosity. 2025. [⟨hal-04975548⟩](https://hal.science/hal-04975548)
+- Poupard, M., Larrue, F., Bertrand, M., Liguoro, D., Sauzéon, H., & Tricot, A. (2026). From movement to learning: Leveraging VR behavioral metrics to evaluate cognitive load and curiosity. International Journal of Human-Computer Studies, 103751. https://doi.org/10.1016/j.ijhcs.2026.103751
+- Poupard, M., Larrue, F., Bertrand, M., Tricot, A., & Sauzéon, H. (2025). Using virtual reality for enhancing neuroanatomy learning by optimizing cognitive load and intrinsic motivation. Computers & Education, 235, 105332. https://doi.org/10.1016/j.compedu.2025.105332
+
   
 ## Contact
 For inquiries or collaborations, please contact *poupard.matisse@gmail.com*.
